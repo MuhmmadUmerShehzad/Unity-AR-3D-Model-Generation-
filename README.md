@@ -24,3 +24,12 @@ The project follows a streamlined architecture for transforming a 2D image into 
 ## Project Link
 
 You can view the project demo/files here: [Google Drive Link](https://drive.google.com/file/d/18kMDEZAx1Snnf576x37kZHxuFtxbv8Yb/view?usp=sharing)
+
+## Tech Stack
+
+- Unity (C#)
+- Augmented Reality (AR concepts)
+- REST APIs (HTTP, JSON)
+- Railway (backend routing)
+- Google Colab (model generation)
+- OBJ file format (3D mesh handling)
